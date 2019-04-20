@@ -1,0 +1,47 @@
+{
+  "config": {
+    "title": "Gatsby Starter Default",
+    "description": "A simple starter to get up and developing quickly with Gatsby",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": "https://github.com/gatsbyjs/gatsby-starter-default",
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "props": [
+    {
+      "key": "src/components/image.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Image",
+          "methods": [],
+          "actualName": "Image"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "key": "src/pages/image.mdx",
+      "value": {
+        "id": "548fec24902607a51b10537e4ae0c802",
+        "filepath": "src/pages/image.mdx",
+        "link": "",
+        "slug": "src-pages-image",
+        "route": "/src-pages-image",
+        "name": "Image",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "image-component-example",
+            "depth": 1,
+            "value": "Image Component Example"
+          }
+        ]
+      }
+    }
+  ]
+}
